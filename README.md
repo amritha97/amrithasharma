@@ -6,3 +6,9 @@ My name is Amritha Sharma and I'm a data enthusiast. I'm from India, living in C
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=sql&logoColor=white&color=2bbc8a)
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/amritha950
+[2]: https://github.com/amritha97
+[3]: https://www.linkedin.com/in/amrithasharma/
